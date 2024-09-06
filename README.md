@@ -18,7 +18,7 @@ Bem vindo ao meu portfólio
 <div align="center">
   <a href="https://github.com/vGustav1">
     <img height="150em"  src="https://github-readme-streak-stats.herokuapp.com/?user=vGustav1&theme=dark&hide_border=true"/>    
-    <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasS20&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
+    <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vGustav1&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
   </a>
 </div>
 
