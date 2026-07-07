@@ -1,6 +1,6 @@
 <div align="center">
 
-#Meu nome é Gustavo 👋
+# Meu nome é Gustavo 👋
 
 Estou estudando **Java, Python, HTML, CSS e JavaScript**
 Bem-vindo ao meu portfólio!
