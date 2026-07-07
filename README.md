@@ -1,6 +1,6 @@
 <div align="center">
 
-# Meu nome é Gustavo 👋
+# Meu nome é Gustavo 
 
 Estou estudando **Java, Python, HTML, CSS e JavaScript**
 Bem-vindo ao meu portfólio!
@@ -11,7 +11,7 @@ Bem-vindo ao meu portfólio!
 
 <div align="center">
 
-### 🚀 Tecnologias que estou estudando
+###  Tecnologias que estou estudando
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -25,7 +25,7 @@ Bem-vindo ao meu portfólio!
 
 <div align="center">
 
-### 🔗 Meu LinkedIn
+###  Meu LinkedIn
 
 <a href="https://www.linkedin.com/in/gustavo-vieira-b3107126b/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
