@@ -22,6 +22,7 @@ Bem-vindo ao meu portfólio!
 
 <br>
 
+Meu linkedIn
 <div align="center">
   <a href="https://www.linkedin.com/in/gustavo-vieira-b3107126b/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
