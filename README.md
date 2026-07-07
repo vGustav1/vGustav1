@@ -1,6 +1,6 @@
 <div align="center">
 
-# Meu nome é Gustavo 👋
+# Olá, tudo bem? Meu nome é Gustavo 👋
 
 Estou estudando **Java, Python, HTML, CSS e JavaScript**
 
@@ -23,12 +23,13 @@ Bem-vindo ao meu portfólio!
 <br>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=vGustav1&theme=dark&hide_border=true"/>    
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vGustav1&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
+  <a href="https://www.linkedin.com/in/gustavo-vieira-b3107126b/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://github.com/vGustav1" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  </a>
 </div>
-
-<br>
-
 
 <br>
 
