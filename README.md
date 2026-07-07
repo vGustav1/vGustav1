@@ -8,6 +8,8 @@ Bem-vindo ao meu portfólio!
 
 </div>
 
+<br>
+
 <div align="center">
 
 ### 🚀 Tecnologias que estou estudando
@@ -22,13 +24,14 @@ Bem-vindo ao meu portfólio!
 
 <br>
 
-
 <div align="center">
-  Meu linkedIn
-  <a href="https://www.linkedin.com/in/gustavo-vieira-b3107126b/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
- 
+
+### 🔗 Meu LinkedIn
+
+<a href="https://www.linkedin.com/in/gustavo-vieira-b3107126b/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </div>
 
 <br>
