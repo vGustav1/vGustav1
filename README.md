@@ -30,7 +30,7 @@
 **Back-end**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
@@ -48,7 +48,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
@@ -72,11 +71,11 @@ Jogo de nave espacial desenvolvido em dupla, onde o jogador desvia e destrói as
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vGustav1&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&color=blueviolet&style=flat" alt="Visualizações de perfil" />
+  <img src="https://komarev.com/ghpvc/?username=vGustav1&color=blueviolet&style=flat" alt="Visualizações de perfil" />
 </p>
 
 ---
