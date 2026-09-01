@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o(a) [Gustavo] 👋</h1>
+<h1 align="center">Olá, eu sou Gustavo</h1>
 
 <h3 align="center">Desenvolvedor Full-Stack </h3>
 
@@ -16,7 +16,7 @@
 ### 🧑‍💻 Sobre mim
 
 - 🔭 Atualmente trabalhando em: **[Projetos Pessoais]**
-- 
+
 ### 🛠️ Tecnologias e Ferramentas
 
 **Front-end**
