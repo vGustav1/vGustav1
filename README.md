@@ -1,9 +1,8 @@
 <h1 align="center">Olá, eu sou Gustavo</h1>
-
-<h3 align="center">Desenvolvedor Full-Stack </h3>
+<h3 align="center">Desenvolvedor Full-Stack</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/gustavovieira21" target="_blank">
+  <a href="https://www.linkedin.com/in/gustavovieira21" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gustavofvieira5@gmail.com">
@@ -14,13 +13,11 @@
 ---
 
 ### 🧑‍💻 Sobre mim
-
 - 🔭 Atualmente trabalhando em: **[Projetos Pessoais]**
 
 ### 🛠️ Tecnologias e Ferramentas
 
 **Front-end**
-
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -28,7 +25,6 @@
 </p>
 
 **Back-end**
-
 <p align="left">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -36,7 +32,6 @@
 </p>
 
 **Banco de Dados**
-
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -44,7 +39,6 @@
 </p>
 
 **Ferramentas**
-
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -71,7 +65,7 @@ Jogo de nave espacial desenvolvido em dupla, onde o jogador desvia e destrói as
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vGustav1&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=vGustav1&theme=radical" />
 </p>
 
 <p align="center">
