@@ -58,7 +58,6 @@ Jogo de nave espacial desenvolvido em dupla, onde o jogador desvia e destrói as
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=vGustav1&show_icons=true&theme=radical&count_private=true" />
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vGustav1&layout=compact&theme=radical" />
 </p>
 
@@ -66,8 +65,5 @@ Jogo de nave espacial desenvolvido em dupla, onde o jogador desvia e destrói as
   <img src="https://streak-stats.demolab.com/?user=vGustav1&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vGustav1&color=blueviolet&style=flat" alt="Visualizações de perfil" />
-</p>
 
 ---
