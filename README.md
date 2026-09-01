@@ -13,7 +13,7 @@
 ---
 
 ### 🧑‍💻 Sobre mim
-- 🔭 Atualmente trabalhando em: **[Projetos Pessoais]**
+- 🔭 Atualmente trabalhando em: **Projetos Pessoais**
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -34,8 +34,6 @@
 **Banco de Dados**
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 **Ferramentas**
@@ -60,8 +58,8 @@ Jogo de nave espacial desenvolvido em dupla, onde o jogador desvia e destrói as
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vGustav1&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vGustav1&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=vGustav1&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vGustav1&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
