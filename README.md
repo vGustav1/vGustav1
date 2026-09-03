@@ -28,10 +28,10 @@ Atualmente focado em projetos pessoais, aplicando conceitos de Engenharia de Sof
 </table>
 
 ## Tecnologias
-**Linguagens:** Python · Java · JavaScript
-**Back-end:** Spring Boot
-**Front-end:** HTML5 · CSS3
-**Banco de Dados:** MySQL
+**Linguagens:** Python · Java · JavaScript<br>
+**Back-end:** Spring Boot<br>
+**Front-end:** HTML5 · CSS3<br>
+**Banco de Dados:** MySQL<br>
 **Ferramentas:** Git · GitHub · Figma
 
 ## Projetos em destaque
