@@ -46,8 +46,18 @@ Jogo de nave espacial desenvolvido em dupla, com testes automatizados e código 
 
 ## 🎵 O que gosto de escutar
 
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=gustavofvieira5)
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gustavofvieira5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+<table>
+<tr>
+<td valign="top" width="55%">
+<img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=gustavofvieira5" width="100%"/>
+</td>
+<td valign="top" width="45%">
+<a href="https://github.com/kittinan/spotify-github-profile">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=gustavofvieira5&cover_image=true&theme=compact&show_offline=false&background_color=121212&bar_color=53b14f&interchange=false" width="100%"/>
+</a>
+</td>
+</tr>
+</table>
 
 ## Estatísticas
 <p align="center">
