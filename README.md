@@ -8,7 +8,7 @@
 ## Sobre
 Atualmente focado em projetos pessoais, aplicando conceitos de Engenharia de Software na prática.
 
-## 🎲 Curiosidades sobre mim
+## Curiosidades sobre mim
 
 <table>
 <tr>
@@ -44,9 +44,10 @@ Bot em Python que automatiza a publicação de ofertas de afiliado em um canal d
 Jogo de nave espacial desenvolvido em dupla, com testes automatizados e código organizado em módulos.
 `Python` `Pygame` `Pytest`
 
-## 🎵 Tocando agora / Últimas músicas
+## 🎵 O que gosto de escutar
 
 ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=gustavofvieira5)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gustavofvieira5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## Estatísticas
 <p align="center">
