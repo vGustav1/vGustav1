@@ -8,14 +8,24 @@
 ## Sobre
 Atualmente focado em projetos pessoais, aplicando conceitos de Engenharia de Software na prática.
 
+## 🎲 Curiosidades sobre mim
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+- 💻 Gosto de programar em `Java` e `Python`.
+- 🦊 Torço para o Cruzeiro.
+- 🎮 Jogo games a vida inteira.
+- 🎾 Jogo tênis.
+- 🥊 Pratico muay thai.
+
 </td>
 <td width="40%">
 <img src="https://i.pinimg.com/1200x/8d/5b/a4/8d5ba4691a7f877ea25dc5eacca27688.jpg" width="100%">
 </td>
 </tr>
 </table>
-
-> ✏️ Troque os itens acima pelas suas curiosidades reais e suba uma imagem/GIF sua (ou de algo que combine com seu perfil) num repositório e cole o link no `src` da tag `<img>`.
 
 ## Tecnologias
 **Linguagens:** Python · Java · JavaScript
@@ -36,10 +46,7 @@ Jogo de nave espacial desenvolvido em dupla, com testes automatizados e código 
 
 ## 🎵 Tocando agora / Últimas músicas
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=gustavofvieira5)](https://open.spotify.com/user/SEU_USUARIO_SPOTIFY)
-
-> ✏️ Para ativar: acesse **https://spotify-recently-played-readme.vercel.app/**, clique em autorizar com sua conta Spotify e troque `gustavofvieira5` pelo seu nome de usuário do Spotify no link acima.
-> Parâmetros opcionais: `&count=5` (quantidade de músicas, 1–10) e `&width=400` (largura do card).
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=gustavofvieira5)
 
 ## Estatísticas
 <p align="center">
