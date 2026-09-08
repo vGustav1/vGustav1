@@ -74,5 +74,4 @@ Jogo de nave espacial desenvolvido em dupla, com testes automatizados e código 
 ## Estatísticas
 <p align="center">
   <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vGustav1&layout=compact&theme=chartreuse-dark&title_color=39FF14&text_color=39FF14&icon_color=39FF14&bg_color=0D1117&border_color=39FF14&border_radius=8" />
-  <img height="165em" src="https://streak-stats.demolab.com/?user=vGustav1&theme=soft-green&border_radius=8" />
-</p>
+  
